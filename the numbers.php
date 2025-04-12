@@ -1,8 +1,8 @@
 <!doctype html>
     <html>
         <head>
-            <body>
             <title>my first php<title>
+            </head>
                 <?php
                 $num =10;
                 $num++;
@@ -12,3 +12,5 @@
                 echo 40.448;
                 echo 5+9;
                 echo $sum;
+?>
+</html>
